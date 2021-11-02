@@ -703,3 +703,357 @@ C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj
 C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WpfTutorialSamples.g.resources
 C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WpfTutorialSamples.Properties.Resources.resources
 C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WpfTutorialSamples.csproj.GenerateResource.Cache
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\bin\Debug\WpfTutorialSamples.exe
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\bin\Debug\WpfTutorialSamples.pdb
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WpfTutorialSamples.csproj.AssemblyReference.cache
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\AudioVideoPlayerCompleteSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\MediaPlayerAudioControlSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\MediaPlayerAudioSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\MediaPlayerVideoControlSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\MediaPlayerVideoSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\MediaPlayerVideoSizeSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SpeechRecognitionCommandsSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SpeechRecognitionTextCommandsSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SpeechRecognitionTextSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SpeechSynthesisPromptBuilderSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SpeechSynthesisSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SystemSoundsSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\CheckBoxSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\CheckBoxThreeStateSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\LabelControlAdvancedSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\LabelControlSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\PasswordBoxSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\RadioButtonCustomContentSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\RadioButtonSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBlockCodeBehindSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBlockHyperlinkSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBlockInlineSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBlockSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBlockSpanSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBoxSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBoxSelectionSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ComboBox control\CustomContentSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ComboBox control\DataBindingSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ComboBox control\EditableSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ComboBox control\ComboBoxSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ComboBox control\SelectionSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Commands\CommandCanExecuteSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Commands\CommandsWithCommandTargetSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Commands\UsingCommandsSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ContextMenuManuallyInvokedSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ContextMenuSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ContextMenuWithCommandsSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\MenuIconCheckableSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\MenuSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\MenuWithCommandsSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\StatusBarAdvancedSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\StatusBarSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ToolbarCustomControlsSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ToolbarIconSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ToolbarPositionSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ToolbarSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Control concepts\TextFormattingModeSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Control concepts\TextRenderingModeSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Control concepts\ToolTipsAdvancedSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Control concepts\ToolTipsSimpleSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\ChangeNotificationSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\CodeBehindBindingsSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\DataContextSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\HelloBoundWorldSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\StringFormatCultureSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\StringFormatSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataGrid control\DataGridColumnFeaturesSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataGrid control\DataGridColumnsSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataGrid control\DataGridDetailsSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataGrid control\DataGridGroupSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataGrid control\SimpleDataGridSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\InputDialogAppSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\InputDialogSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\MessageBoxSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\OpenFileDialogMultipleFilesSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\OpenFileDialogSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\SaveFileDialogSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ItemsControl\DataBindingSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ItemsControl\PanelSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ItemsControl\ItemsControlSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListBox control\ListBoxDataBindingSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListBox control\ListBoxSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListBox control\ListBoxSelectionSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\BasicSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\FilteringSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\CollapseExpandGroupSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\ColumnSortingSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\DataBindingSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\ListViewGridViewCellTemplateSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\ListViewGridViewSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\ListViewGroupSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\ItemTemplateSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\SortingSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\MainWindow.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\BorderSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarBlockedoutDatesSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarControlSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarDisplayDateSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarDisplayModeSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarSelectedDatesSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarSelectionModeSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarSelectedDateSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarViewboxSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ControllingTheTabControlSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ProgressBarIndeterminateSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ProgressBarSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ProgressBarTaskOnUiThread.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ProgressBarTaskOnWorkerThread.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ProgressBarTextSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\SliderBoundValueSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\SliderSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\SliderSnapToTickSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\SliderValueChangedSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\StyledTabItemsSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\StyledTabItemsWithBorderSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\TabControlSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\TabControlWithCustomHeadersSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\TabStripPlacementSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\WebBrowserControlSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\WindowsFormsHostSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc\BackgroundWorkerCancellationSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc\BackgroundWorkerSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc\DispatcherTimerSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\Canvas.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\CanvasPainting.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\CanvasZIndex.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\DockPanel.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\Grid.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridColRowSpan.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridColRowSpanAdvanced.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridContactForm.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridContactFormTake2.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridSplitterHorizontalSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridSplitterSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridUnits.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\StackPanel.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\TabularGrid.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\WrapPanel.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\CodeBehindFlowDocumentSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\ExtendedFlowDocumentSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentPageViewerSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentPrintSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentReaderSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentScrollViewerSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentScrollViewerZoomSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentSearchSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentTextAlignmentSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\RichTextBoxParagraphSpacingSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\RichTextBoxSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\RichTextBoxTextSelectionSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\RichTextEditorSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\ControlSpecificStyleSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\ExplicitStyleSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\SimpleStyleSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleDataTriggerSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleEventTriggerSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleMultiDataTriggerSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleMultiTriggerSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleTriggerEnterExitActions.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleTriggersSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\WindowWideStyleSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\CustomItemsSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\LazyLoadingSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\TreeViewSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\TreeViewSelectionExpansionSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\User Controls\LimitedInputUserControl.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WPF Application\AppSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WPF Application\ExceptionHandlingSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WPF Application\ExtendedResourceSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WPF Application\ResourceSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WPF Application\ResourcesFromCodeBehindSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\XAML\EventsSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\App.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\AudioVideoPlayerCompleteSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\MediaPlayerAudioControlSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\MediaPlayerAudioSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\MediaPlayerVideoControlSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\MediaPlayerVideoSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\MediaPlayerVideoSizeSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SpeechRecognitionCommandsSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SpeechRecognitionTextCommandsSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SpeechRecognitionTextSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SpeechSynthesisPromptBuilderSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SpeechSynthesisSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SystemSoundsSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\CheckBoxSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\CheckBoxThreeStateSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\LabelControlAdvancedSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\LabelControlSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\PasswordBoxSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\RadioButtonCustomContentSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\RadioButtonSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBlockCodeBehindSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBlockHyperlinkSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBlockInlineSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBlockSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBlockSpanSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBoxSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBoxSelectionSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ComboBox control\CustomContentSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ComboBox control\DataBindingSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ComboBox control\EditableSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ComboBox control\ComboBoxSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ComboBox control\SelectionSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Commands\CommandCanExecuteSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Commands\CommandsWithCommandTargetSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Commands\CustomCommandSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Commands\UsingCommandsSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ContextMenuManuallyInvokedSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ContextMenuSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ContextMenuWithCommandsSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\MenuIconCheckableSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\MenuSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\MenuWithCommandsSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\StatusBarAdvancedSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\StatusBarSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ToolbarCustomControlsSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ToolbarIconSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ToolbarPositionSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ToolbarSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Control concepts\TextFormattingModeSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Control concepts\TextRenderingModeSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Control concepts\ToolTipsAdvancedSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Control concepts\ToolTipsSimpleSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\ChangeNotificationSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\CodeBehindBindingsSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\ConverterSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\DataBindingDebuggingSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\DataContextSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\HelloBoundWorldSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\MultiValueConverterSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\StringFormatCultureSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\StringFormatSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataGrid control\DataGridColumnFeaturesSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataGrid control\DataGridColumnsSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataGrid control\DataGridDetailsSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataGrid control\DataGridGroupSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataGrid control\SimpleDataGridSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\InputDialogAppSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\InputDialogSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\MessageBoxSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\OpenFileDialogMultipleFilesSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\OpenFileDialogSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\SaveFileDialogSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ItemsControl\DataBindingSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ItemsControl\PanelSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ItemsControl\ItemsControlSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListBox control\ListBoxDataBindingSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListBox control\ListBoxSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListBox control\ListBoxSelectionSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\BasicSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\FilteringSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\CollapseExpandGroupSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\ColumnSortingSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\DataBindingSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\ListViewGridViewCellTemplateSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\ListViewGridViewSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\ListViewGroupSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\ItemTemplateSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\SortingSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\MainWindow.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\BorderSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarBlockedoutDatesSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarControlSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarDisplayDateSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarDisplayModeSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarSelectedDatesSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarSelectionModeSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarSelectedDateSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarViewboxSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ControllingTheTabControlSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ProgressBarIndeterminateSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ProgressBarSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ProgressBarTaskOnUiThread.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ProgressBarTaskOnWorkerThread.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ProgressBarTextSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\SliderBoundValueSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\SliderSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\SliderSnapToTickSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\SliderValueChangedSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\StyledTabItemsSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\StyledTabItemsWithBorderSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\TabControlSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\TabControlWithCustomHeadersSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\TabStripPlacementSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\WebBrowserControlSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\WindowsFormsHostSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc\BackgroundWorkerCancellationSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc\BackgroundWorkerSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc\DispatcherTimerSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\Canvas.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\CanvasPainting.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\CanvasZIndex.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\DockPanel.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\Grid.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridColRowSpan.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridColRowSpanAdvanced.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridContactForm.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridContactFormTake2.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridSplitterHorizontalSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridSplitterSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridUnits.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\StackPanel.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\TabularGrid.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\WrapPanel.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\BlockUIContainerSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\CodeBehindFlowDocumentSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\ExtendedFlowDocumentSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentPageViewerSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentPrintSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentReaderSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentScrollViewerSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentScrollViewerZoomSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentSearchSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentTextAlignmentSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\RichTextBoxParagraphSpacingSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\RichTextBoxSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\RichTextBoxTextSelectionSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\RichTextEditorSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\ControlSpecificStyleSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\ExplicitStyleSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\SimpleStyleSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleDataTriggerSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleEventTriggerSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleMultiDataTriggerSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleMultiTriggerSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleTriggerEnterExitActions.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleTriggersSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\WindowWideStyleSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\CustomItemsSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\LazyLoadingSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\TreeViewDataBindingSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\TreeViewMultipleTemplatesSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\TreeViewSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\TreeViewSelectionExpansionSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\User Controls\LimitedInputSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\User Controls\LimitedInputUserControl.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WPF Application\AppSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WPF Application\ExceptionHandlingSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WPF Application\ExtendedResourceSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WPF Application\ResourceSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WPF Application\ResourcesFromCodeBehindSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\XAML\EventsSample.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\App.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WpfTutorialSamples_MarkupCompile.cache
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WpfTutorialSamples_MarkupCompile.lref
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Commands\CustomCommandSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\ConverterSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\DataBindingDebuggingSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\MultiValueConverterSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\BlockUIContainerSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\TreeViewDataBindingSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\TreeViewMultipleTemplatesSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\User Controls\LimitedInputSample.baml
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WpfTutorialSamples.g.resources
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WpfTutorialSamples.Properties.Resources.resources
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WpfTutorialSamples.csproj.GenerateResource.cache
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WpfTutorialSamples.csproj.CoreCompileInputs.cache
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WpfTutorialSamples.exe
+E:\Freelancer\10.18.CSharpNotification_elisom\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WpfTutorialSamples.pdb
